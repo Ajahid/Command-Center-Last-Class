@@ -6,5 +6,10 @@ public class LastClassOne {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public static void methodA (){
+		
+		
+	}
 
 }
